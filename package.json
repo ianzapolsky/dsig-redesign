@@ -1,0 +1,10 @@
+{
+  "name"    : "dsig-web",
+  "version" : "0.0.1",
+  "main"    : "app.js",
+  "author"  : "ianzapolsky",
+  "dependencies" : {
+    "express" : "latest",
+    "request" : "latest"
+  }
+}
