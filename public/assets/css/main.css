@@ -38,14 +38,13 @@
 /* line 26, ../sass/main.sass */
 .photos .galleria {
   height: 500px;
-  width: 100%;
 }
 
-/* line 31, ../sass/main.sass */
+/* line 30, ../sass/main.sass */
 .text-vertical-center h1 {
   color: #3c7a46;
 }
-/* line 33, ../sass/main.sass */
+/* line 32, ../sass/main.sass */
 .text-vertical-center .white-header {
   color: white;
 }
