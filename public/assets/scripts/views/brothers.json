@@ -923,7 +923,6 @@
     "firstname": "Ray",
     "lastname": "Heimann",
     "year": 2015,
-    "eboard": "Sergeant at Arms"
   },{
     "id": 179,
     "firstname": "Ryan",
@@ -939,7 +938,6 @@
     "firstname": "Francisco",
     "lastname": "Micheo Marcial",
     "year": 2015,
-    "eboard": "Secretary"
   },{
     "id": 182,
     "firstname": "Jeremy",
@@ -975,7 +973,6 @@
     "firstname": "Will",
     "lastname": "Settel",
     "year": 2015,
-    "eboard": "President"
   },{
     "id": 189,
     "firstname": "Eliot",
@@ -996,7 +993,6 @@
     "firstname": "Sam",
     "lastname": "Wang",
     "year": 2015,
-    "eboard": "Treasurer"
   },{
     "id": 193,
     "firstname": "Harry",
@@ -1029,11 +1025,11 @@
     "firstname": "Drew",
     "lastname": "Dunn-Rankin",
     "year": 2016,
-    "eboard": "Vice President"
   },{
     "id": 199,
     "firstname": "Nick",
     "lastname": "Ellenoff",
+    "eboard": "Treasurer",
     "year": 2016
   },{
     "id": 200,
@@ -1110,6 +1106,26 @@
     "firstname": "John",
     "lastname": "Verghese",
     "year": 2016
+  },{
+    "id": 214,
+    "firstname": "Mateo",
+    "lastname": "Creamer",
+    "year": 2016
+  },{
+    "id": 214,
+    "firstname": "Brandon",
+    "lastname": "Martinez",
+    "year": 2016
+  },{
+    "id": 214,
+    "firstname": "Jake",
+    "lastname": "Boeri",
+    "year": 2016
+  },{
+    "id": 214,
+    "firstname": "Derek",
+    "lastname": "Yan",
+    "year": 2016
   },
   
   {
@@ -1121,6 +1137,7 @@
     "id": 216,
     "firstname": "Zak",
     "lastname": "Burns",
+    "eboard": "Secretary",
     "year": 2017
   },{
     "id": 217,
@@ -1146,6 +1163,7 @@
     "id": 221,
     "firstname": "Will",
     "lastname": "Rodriguez",
+    "eboard": "Vice President",
     "year": 2017
   },{
     "id": 222,
@@ -1156,16 +1174,90 @@
     "id": 223,
     "firstname": "Aaron",
     "lastname": "Shooshani",
+    "eboard": "President",
     "year": 2017
   },{
     "id": 224,
     "firstname": "Jeremy",
     "lastname": "Staub",
+    "eboard": "Sergeant at Arms",
     "year": 2017
   },{
     "id": 225,
     "firstname": "Asher",
     "lastname": "Zlotnik",
     "year": 2017
+  },{
+    "id": 226,
+    "firstname": "Ryyan",
+    "lastname": "Chacra",
+    "year": 2017
+  },{
+    "id": 227,
+    "firstname": "Yoon",
+    "lastname": "Choi",
+    "year": 2017
+  },
+
+  {
+    "id": 228,
+    "firstname": "Matias",
+    "lastname": "Lirman",
+    "year": 2018
+  },{
+    "id": 229,
+    "firstname": "Liron",
+    "lastname": "Lipman",
+    "year": 2018
+  },{
+    "id": 230,
+    "firstname": "Daniel",
+    "lastname": "Tal",
+    "year": 2018
+  },{
+    "id": 231,
+    "firstname": "Wyatt",
+    "lastname": "Thompson",
+    "year": 2018
+  },{
+    "id": 232,
+    "firstname": "Yowana",
+    "lastname": "Wamala",
+    "year": 2018
+  },{
+    "id": 233,
+    "firstname": "Teddy",
+    "lastname": "Kleinman",
+    "year": 2018
+  },{
+    "id": 234,
+    "firstname": "Dimitri",
+    "lastname": "Borgers",
+    "year": 2018
+  },{
+    "id": 235,
+    "firstname": "David",
+    "lastname": "Kim",
+    "year": 2018
+  },{
+    "id": 236,
+    "firstname": "Nicolas",
+    "lastname": "Chinot",
+    "year": 2018
+  },{
+    "id": 237,
+    "firstname": "Alex",
+    "lastname": "Cody",
+    "year": 2018
+  },{
+    "id": 238,
+    "firstname": "Marco",
+    "lastname": "Matos",
+    "year": 2018
+  },{
+    "id": 239,
+    "firstname": "Noah",
+    "lastname": "Basri",
+    "year": 2018
   }
 ]
