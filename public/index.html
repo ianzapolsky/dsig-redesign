@@ -106,7 +106,7 @@
 
     <!-- Map -->
     <section class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12080.090301327024!2d-73.96387!3d40.8054977!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f63c3fe4c15f%3A0x8ae02a9fa80e58ed!2sDelta+Sigma+Phi%2C+Columbia+University%2C+New+York%2C+NY+10025!5e0!3m2!1sen!2sus!4v1420419259468"></iframe>
+        <iframe style="pointer-events:none;" width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12080.090301327024!2d-73.96387!3d40.8054977!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f63c3fe4c15f%3A0x8ae02a9fa80e58ed!2sDelta+Sigma+Phi%2C+Columbia+University%2C+New+York%2C+NY+10025!5e0!3m2!1sen!2sus!4v1420419259468"></iframe>
     </section>
 
     <!-- Photos -->
@@ -266,34 +266,34 @@
 
     <!-- Custom Theme JavaScript -->
     <script>
-    // Closes the sidebar menu
-    $("#menu-close").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });
+      // Closes the sidebar menu
+      $("#menu-close").click(function(e) {
+          e.preventDefault();
+          $("#sidebar-wrapper").toggleClass("active");
+      });
 
-    // Opens the sidebar menu
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#sidebar-wrapper").toggleClass("active");
-    });
+      // Opens the sidebar menu
+      $("#menu-toggle").click(function(e) {
+          e.preventDefault();
+          $("#sidebar-wrapper").toggleClass("active");
+      });
 
-    // Scrolls to the selected menu item on the page
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+      // Scrolls to the selected menu item on the page
+      $(function() {
+          $('a[href*=#]:not([href=#])').click(function() {
+              if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
 
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html,body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-    });
+                  var target = $(this.hash);
+                  target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                  if (target.length) {
+                      $('html,body').animate({
+                          scrollTop: target.offset().top
+                      }, 1000);
+                      return false;
+                  }
+              }
+          });
+      });
     </script>
 
 </body>
