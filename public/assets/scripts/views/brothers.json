@@ -1029,7 +1029,6 @@
     "id": 199,
     "firstname": "Nick",
     "lastname": "Ellenoff",
-    "eboard": "Treasurer",
     "year": 2016
   },{
     "id": 200,
@@ -1142,7 +1141,6 @@
     "id": 216,
     "firstname": "Zak",
     "lastname": "Burns",
-    "eboard": "Secretary",
     "year": 2017
   },{
     "id": 217,
@@ -1168,7 +1166,6 @@
     "id": 221,
     "firstname": "Will",
     "lastname": "Rodriguez",
-    "eboard": "Vice President",
     "year": 2017
   },{
     "id": 222,
@@ -1179,13 +1176,11 @@
     "id": 223,
     "firstname": "Aaron",
     "lastname": "Shooshani",
-    "eboard": "President",
     "year": 2017
   },{
     "id": 224,
     "firstname": "Jeremy",
     "lastname": "Staub",
-    "eboard": "Sergeant at Arms",
     "year": 2017
   },{
     "id": 225,
@@ -1233,11 +1228,13 @@
     "id": 233,
     "firstname": "Teddy",
     "lastname": "Kleinman",
+    "eboard": "President",
     "year": 2018
   },{
     "id": 234,
     "firstname": "Dimitri",
     "lastname": "Borgers",
+    "eboard": "Secretary",
     "year": 2018
   },{
     "id": 235,
@@ -1264,17 +1261,25 @@
     "firstname": "Noah",
     "lastname": "Basri",
     "year": 2018
+  },{
+    "id":999,
+    "firstname": "Kris",
+    "lastname": "Eiamsakulrat",
+    "eboard": "Treasurer",
+    "year": 2018
   },
 
   {
     "id": 240,
     "firstname": "Stephan",
     "lastname": "Montes",
+    "eboard": "Vice-President",
     "year": 2018
   },{
     "id": 241,
     "firstname": "Dante",
     "lastname": "Guarneri",
+    "eboard": "Sergeant at Arms",
     "year": 2018
   },{
     "id": 242,
@@ -1301,6 +1306,85 @@
     "firstname": "Joseph",
     "lastname": "Cooper",
     "year": 2018
+  },
+
+  {
+    "id": 247,
+    "firstname": "Tarik",
+    "lastname": "Ben Brahim",
+    "year": 2019
+  },
+  {
+    "id": 248,
+    "firstname": "Alexander",
+    "lastname": "Cedar",
+    "year": 2019
+  },
+  {
+    "id": 249,
+    "firstname": "Marwan",
+    "lastname": "Kawadri",
+    "year": 2019
+  },
+  {
+    "id": 250,
+    "firstname": "Ian",
+    "lastname": "Reinickie",
+    "year": 2019
+  },
+  {
+    "id": 251,
+    "firstname": "Jacob",
+    "lastname": "Hyman",
+    "year": 2019
+  },
+  {
+    "id": 252,
+    "firstname": "Oliver",
+    "lastname": "Rordorf",
+    "year": 2019
+  },
+  {
+    "id": 253,
+    "firstname": "Ryan",
+    "lastname": "Walker",
+    "year": 2019
+  },
+  {
+    "id": 254,
+    "firstname": "Travis",
+    "lastname": "Russell",
+    "year": 2019
+  },
+  {
+    "id": 255,
+    "firstname": "Jacob",
+    "lastname": "Lezell",
+    "year": 2019
+  },
+  {
+    "id": 256,
+    "firstname": "Johnathan",
+    "lastname": "Lubash",
+    "year": 2019
+  },
+  {
+    "id": 257,
+    "firstname": "Henry",
+    "lastname": "Doran",
+    "year": 2019
+  },
+  {
+    "id": 258,
+    "firstname": "Fernando",
+    "lastname": "Andrés Pascual",
+    "year": 2019
+  },
+  {
+    "id": 259,
+    "firstname": "James",
+    "lastname": "Houk",
+    "year": 2019
   }
 
 ]
